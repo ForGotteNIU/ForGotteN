@@ -1,5 +1,8 @@
-  let a = 1; /*создал переменную а и присвоил ей значение 1 */
-    console.log(a); /*Вывел в консоль страницы текст */
-  a= 'test'; /* переприсвоил переменной значение*/
-  console.log(a);
-  
+const width = 10;
+const height = 5;
+const space = width * height;
+const newWirth = width - 4;
+const newWirth2 = width + 4;
+const division = newWirth / newWirth2
+const volume = 2 ** 3;/*возведение в степень*/
+console.log(volume);
